@@ -36,5 +36,4 @@ def convert_temperatures(input_file, output_file, target_dis, target_unit):
             writer.writerow([date, new_dis, new_reading])
 
 
-# Example usage:
 convert_temperatures('input.csv', 'output.csv', 'm', 'C')
