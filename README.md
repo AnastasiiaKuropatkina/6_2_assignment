@@ -12,8 +12,8 @@ Before running the conversion tool, ensure you have Python 3.8 or later installe
 ### Installation
 1. Clone the repository to your local machine:
 ``
-git clone https://github.com/AnastasiiaKuropatkina/6_2_assignment/<br>
-``
+git clone https://github.com/AnastasiiaKuropatkina/6_2_assignment/
+``<br>
 Navigate to the cloned directory:<br>
 ``
 cd 6_2_assignment
