@@ -1,5 +1,4 @@
 # Temperature and Distance Conversion Tool
-## Description
 
 This project provides a simple tool for converting temperature readings between Celsius and Fahrenheit, as well as distance measurements between meters and feet. It can process input data .csv files to convert measurement units according to user specifications.
 
